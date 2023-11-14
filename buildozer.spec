@@ -6,7 +6,7 @@
 [app]
 
 # (str) Title of your application
-title = My Application
+title = Strikke_appen_2
 
 # (str) Package name
 package.name = myapp
@@ -75,7 +75,7 @@ orientation = portrait
 # author = © Copyright Info
 
 # Kivy version to use
-osx.kivy_version = 2.2.0
+osx.kivy_version = 2.2.1
 
 #
 # Android specific
